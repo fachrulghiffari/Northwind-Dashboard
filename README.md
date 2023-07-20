@@ -1,9 +1,9 @@
-# Northwind-Dashboard!
+# Northwind Dashboard
 
-[Main Dashboard 2022 Year Filter](https://github.com/fachrulghiffari/Northwind-Dashboard/assets/104657138/0734c8c4-b4b4-4bd8-948b-f96f12dc8a4d)
+![Main Dashboard 2022 by Month](https://github.com/fachrulghiffari/Northwind-Dashboard/assets/104657138/988322ec-81cb-46df-934d-f0e694a76850)
 
 A dashboard that displays Sales and Customers data from the Northwind Database. This dashboard was created with Power BI. The Northwind data I used has gone through a process of changing the year and currency.
-The process of creating a dashboard starts from the database in sql server, load the data into PostgreSQL, until the explanation of the metrics is explained in https://github.com/fachrulghiffari/Northwind-Dashboard/blob/main/Northwind%20Dashboard%20Presentation%20File.pdf
+The process of creating a dashboard starts from the database in sql server, load the data into PostgreSQL, until the explanation of the metrics is explained in https://github.com/fachrulghiffari/Northwind-Dashboard/blob/main/Northwind%20Dashboard%20Presentation%20File.pdf.
 
 ## Files in this Repo
 * Dashboard
@@ -17,7 +17,7 @@ The process of creating a dashboard starts from the database in sql server, load
 
 
 ## How to use it
-You can directly use the dashboard in PowerBI by downloading it at https://github.com/fachrulghiffari/Northwind-Dashboard/blob/main/Dashboard/Northwind%20Dashboard.pbix
+You can directly use the dashboard in PowerBI by downloading it at https://github.com/fachrulghiffari/Northwind-Dashboard/blob/main/Dashboard/Northwind%20Dashboard.pbix.
 The dashboard is already connected to a server in the cloud, so you can use it directly to either try it out or improve it further.
 
 If you want to install the database on SQL Server/PostgreSQL:
