@@ -7,12 +7,16 @@ The process of creating a dashboard starts from the database in sql server, load
 
 ## Files in this Repo
 * Dashboard
+
   This file contains a Northwind Dashboard that has been created using Power BI.
 * Database Backup
+
   This file contains database backup files that can be restored to SQL Server and PostgreSQL.
 * Python
+
   Contains python code and library requirements used to load Northwind data from SQL Server to PostgreSQL in the cloud.
 * Query
+
   This file contains a query to change the year in the date columns and UnitPrice column of the Northwind database in SQL Server and a query to change the data type in PostgreSQL.
 
 
